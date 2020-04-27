@@ -20,4 +20,7 @@ Other than an internet connection and a Google account, nothing else is required
 The beauty of Google Colab is that you can pretty much get in and start coding.
 
 You could even try to access the Colab notebook in the button 👇:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/drive/folders/1RTyZ2T3fSu4XjAEpxTAngYnbCu2TYffV)
+
+- [![GDrive, Git, BQ and R](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/drive/folders/1RTyZ2T3fSu4XjAEpxTAngYnbCu2TYffV)
+
+- [![GDrive, BQ and GSheets](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/open?id=19XZJFzkBj9QuLAfyRMbXj1-v7d9mAtYq)
