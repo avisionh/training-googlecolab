@@ -21,6 +21,6 @@ The beauty of Google Colab is that you can pretty much get in and start coding.
 
 You could even try to access the Colab notebook in the button 👇:
 
-- [![GDrive, Git, BQ and R](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/drive/folders/1RTyZ2T3fSu4XjAEpxTAngYnbCu2TYffV)
+- GDrive, Git, BQ and R - [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/drive/folders/1RTyZ2T3fSu4XjAEpxTAngYnbCu2TYffV)
 
-- [![GDrive, BQ and GSheets](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/open?id=19XZJFzkBj9QuLAfyRMbXj1-v7d9mAtYq)
+- GDrive, BQ and GSheets - [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/open?id=19XZJFzkBj9QuLAfyRMbXj1-v7d9mAtYq)
